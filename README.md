@@ -86,11 +86,11 @@ Divya M – Data enthusiast passionate about solving real-world problems with cl
 
 | Notebook                             | Purpose |
 |-------------------------------------|---------|
-| `01_Vessel_Route_Simulation.ipynb`  | Generate route & speed data for vessels |
-| `02_AIS_Message_Generation.ipynb`   | Encode AIS messages with real speed |
-| `03_WebSocket_Server_Store.ipynb`   | Stream + store AIS messages in DB |
-| `04_Client_Receiver_Analytics.ipynb`| Analyze distance, speed, and query DB |
-| `05_Dashboards.ipynb`               | Visual plots of vessel movement |
+| `Vessel_Route_Simulation_01.ipynb`  | Generate route & speed data for vessels |
+| `AIS_Message_Generation_02.ipynb`   | Encode AIS messages with real speed |
+| `WebSocket_Server_Store_03.ipynb`   | Stream + store AIS messages in DB |
+| `Client_Receiver_Analytics_04.ipynb`| Analyze distance, speed, and query DB |
+| `Dashboards_05.ipynb`               | Visual plots of vessel movement |
 
 ---
 
