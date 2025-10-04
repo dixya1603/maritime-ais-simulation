@@ -37,9 +37,8 @@ This project replicates an end-to-end maritime data pipeline by:
 
 ## Getting Help
 
-If you are reviewing this for the Blurgs AI assignment and need clarification on any implementation detail or deviation from the original instructions, please refer to the **Design Decisions & Justifications** section below. I have explained all choices and trade-offs made.
+If you're a fellow developer trying this project, feel free to open an issue or message me directly. To understand more about the choices, please refer to the **Design Decisions & Justifications** section below. I have explained all choices and trade-offs made.
 
-If you're a fellow developer trying this project, feel free to open an issue or message me directly.
 
 ---
 
